@@ -7,7 +7,7 @@
 //  3. function prototyes (a.k.a function declaration)
 
 #define MAX 30
-
+// this commit is added from local
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
